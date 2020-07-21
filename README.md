@@ -1,2 +1,2 @@
-# brainwallet.io
-Deterministic Bitcoin and Litecoin Address Generator
+# VeriConomy Address Generator
+Deterministic VeriCoin and Verium Address Generator
